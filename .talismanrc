@@ -1,0 +1,8 @@
+# If you are absolutely sure that you want to ignore the above files from talisman detectors,
+# consider pasting the following format in .talismanrc file in the project root
+---
+fileignoreconfig:
+- filename: .pre-commit-config.yaml
+  checksum: fca5112fc1807f25f1e6210e1378a1566359e37f2e72898f3e726e8a48886caf
+- filename: .yamllint.yaml
+  checksum: 268cb8045ae68ca3560f8feb149bfbfde96aaed8b38853e305d6de5d0221ab93
